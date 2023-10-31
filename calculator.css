@@ -1,0 +1,15 @@
+
+#calculator {
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px #888;
+}
+input[type="text"], input[type="button"] {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    margin: 5px;
+}
